@@ -5,3 +5,5 @@ the major puzzle test ++ ,This is how puzzle person greetings: " I F M M P !" , 
 
 The password is : BCMF
 Use the password to crack the File 1
+
+答完puzzle3后将整个答案复制粘贴到https://vijos.org/d/HaoGuoZi_Co/join
